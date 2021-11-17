@@ -1,4 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Tucker 👋
+
+## I'm a Husband, Developer, and SysAdmin!!
+
+- 🌱 I’m currently learning everything I can 🤣
+- 👯 I’m looking to collaborate with other content creators
+- 🥅 2022 Goals: Contribute more to Open Source projects
+- ⚡ Fun fact: I used to be a pro rock climber
+
+<br>
 
 <!--
 **reset65/reset65** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
